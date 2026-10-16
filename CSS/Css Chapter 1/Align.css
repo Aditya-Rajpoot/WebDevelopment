@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    text-decoration: double red underline;
+    letter-spacing: 5px;
+    font-family: fantasy;
+    
+}
+h3{
+    text-align: right;
+    text-decoration: wavy underline;
+
+}
+h2{
+    font-weight: normal;
+    /* text-align: left; */
+}
+a{
+    text-decoration: none;
+   color: red;
+}
+p{
+    font-family: Arial rgb(40, 30, 30);
+}

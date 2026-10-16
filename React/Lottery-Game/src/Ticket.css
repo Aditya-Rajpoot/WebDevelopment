@@ -1,0 +1,21 @@
+.Ticket {
+    background: #101014;
+    border: 1px solid #34343d;
+    border-radius: 12px;
+    padding: 18px;
+}
+
+.ticket-label {
+    color: #6b6b76;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.ticket-nums {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
